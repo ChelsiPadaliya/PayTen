@@ -189,7 +189,7 @@ const HeaderOne: React.FC = () => {
                     <Link
                       href='#'
                       className='articles-view-link fw-semibold tw-text-lg tw-px-4 tw-py-2 rounded-2'
-                      style={{ backgroundColor: '#FBB713', color: '#ED1B23', border: '2px solid #ED1B23' }}
+                      style={{ backgroundColor: '#FBB713', color: '#fff', border: '2px solid #ED1B23' }}
                     >
 
                       SIGN IN
